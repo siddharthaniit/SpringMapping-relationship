@@ -1,0 +1,5 @@
+com/example/model/Student.class
+com/example/repository/StudentRepository.class
+com/example/EkartExampleApplication.class
+com/example/model/College.class
+com/example/repository/CollegeRepository.class
